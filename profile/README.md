@@ -8,3 +8,5 @@ This includes our engineering estate, knowledge systems, shared services and
 observability.
 
 [Visit NDDev](https://nddev.ai)
+
+[Contact](mailto:danil@nddev.ai)
