@@ -2,11 +2,10 @@
 
 ![Abstract illustration for NDDev Ecosystem](assets/cover.png)
 
-Shared internal systems and services for NDDev.
+The shared company systems behind NDDev: our corporate website, knowledge systems,
+shared services and observability.
 
-This includes our engineering estate, knowledge systems, shared services and
-observability.
+Our website brings together six areas: development, AI, design, research,
+OpenNetwork and platforms.
 
-[Visit NDDev](https://nddev.ai)
-
-[Contact](mailto:danil@nddev.ai)
+[Explore NDDev](https://nddev.ai) · [Contact](mailto:danil@nddev.ai)
